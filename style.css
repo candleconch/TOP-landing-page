@@ -1,0 +1,24 @@
+header,
+.hero,
+footer {
+   background-color: #1f2937;
+}
+header{
+   font-size: 24px;
+   color: #f9faf8;
+}
+.intro h1 {
+   font-size: 48px;
+   font-weight: bold;
+   color: #f9faf8;
+}
+
+.intro p {
+   font-size: 18px;
+   color: #e5e7eb;
+}
+
+button,
+.call-to-action{
+   color: #3882f6;
+}
