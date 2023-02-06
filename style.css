@@ -3,7 +3,8 @@ header,
 footer {
    background-color: #1f2937;
 }
-header{
+
+.logo {
    font-size: 24px;
    color: #f9faf8;
 }
@@ -13,14 +14,28 @@ header{
    color: #f9faf8;
 }
 
-.intro p {
+.intro,
+header .links {
    font-size: 18px;
+   color: #e5e7eb;
+}
+ul {
+   list-style-type: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+.image {
+   background-color: #7e95b5;
    color: #e5e7eb;
 }
 
 button,
 .call-to-action{
    background-color: #3882f6;
+   color: #e5e7eb;
 }
 
 .info h2 {
