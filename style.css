@@ -9,7 +9,7 @@ header{
 }
 .intro h1 {
    font-size: 48px;
-   font-weight: bold;
+   font-weight: 900;
    color: #f9faf8;
 }
 
@@ -20,5 +20,19 @@ header{
 
 button,
 .call-to-action{
-   color: #3882f6;
+   background-color: #3882f6;
+}
+
+.info h2 {
+   font-size: 36px;
+   font-weight: 900;
+   color: #1f2937;
+}
+
+.quote {
+   background-color: #e5e7eb;
+   font-size: 36px;
+   font-weight: 200;
+   font-style: italic;
+   color: #1f2937;
 }
