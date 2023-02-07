@@ -111,7 +111,7 @@ button,
 .info {
    display: flex;
    flex-wrap: wrap;
-   gap: 24px;
+   gap: 48px;
    justify-content: center;
 }
 .info div {
@@ -128,7 +128,7 @@ button,
 }
 
 .quote {
-   padding: 0 auto;
+   padding: 24px 48px;
    background-color: #e5e7eb;
    font-size: 36px;
    font-weight: 200;
